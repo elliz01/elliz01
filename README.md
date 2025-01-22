@@ -3,7 +3,7 @@
 Sou estudante de **Sistemas para Internet** e apaixonada por tecnologia, programação e desenvolvimento. Estou focada em me tornar uma desenvolvedora fullstack, com um interesse especial em **back-end** e **Inteligência Artificial**.
 
 ## 🌟 Sobre Mim
-- 🎓 **Estudante**: Faculdade de Sistemas para Internet e Oracle Next Education.
+- 🎓 **Estudante**: Faculdade de Sistemas para Internet
 - 🚀 **Metas**:
   - Concluir a trilha Iniciante do programa Oracle Next Education.
   - Concluir formações do FreeCodeCamp.
