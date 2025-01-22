@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Elliz.
 
-<!--
-**elliz01/elliz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Sistemas para Internet** e apaixonada por tecnologia, programação e desenvolvimento. Estou focada em me tornar uma desenvolvedora fullstack, com um interesse especial em **back-end** e **Inteligência Artificial**.
 
-Here are some ideas to get you started:
+## 🌟 Sobre Mim
+- 🎓 **Estudante**: Faculdade de Sistemas para Internet e Oracle Next Education.
+- 🚀 **Metas**:
+  - Concluir a trilha Iniciante do programa Oracle Next Education.
+  - Concluir formações do FreeCodeCamp.
+  - Integrar **IA** em projetos futuros.
+- 📍 Local: Brasília, Brasil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 O que estou fazendo agora?
+- 🔧 Desenvolvendo o front-end de um projeto integrador na faculdade.
+- 🌱 Aprendendo tecnologias de back-end e fundamentos de IA.
+- ✍️ Organizando exercícios de lógica de programação em **Java** e **JavaScript** no GitHub.
+
+
+## 📂 Meus Repositórios
+- 🌐 **[Em breve](https://github.com/seuusuario/oracle-one-projects)**: Projetos da trilha de Back-end + IA.
+- 📝 **[Lógica de Programação (Em breve)](https://github.com/seuusuario/logica-programacao)**: Exercícios de lógica em Java e JavaScript.
+- 🚀 **[Projetos FreeCodeCamp (Em breve)](https://github.com/seuusuario/freecodecamp-certification-projects)**: Projetos do curso de certificação.
+
+## 🌎 Onde me encontrar?
+- 💼 [LinkedIn](www.linkedin.com/in/ellizabeth-severo)
+
+Vamos nos conectar e construir algo incrível! 🚀
