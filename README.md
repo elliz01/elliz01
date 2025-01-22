@@ -13,8 +13,6 @@ Sou estudante de **Sistemas para Internet** e apaixonada por tecnologia, program
 ## 💻 O que estou fazendo agora?
 - 🔧 Desenvolvendo o front-end de um projeto integrador na faculdade.
 - 🌱 Aprendendo tecnologias de back-end e fundamentos de IA.
-- ✍️ Organizando exercícios de lógica de programação em **Java** e **JavaScript** no GitHub.
-
 
 ## 📂 Meus Repositórios
 - 🌐 **[Em breve](https://github.com/seuusuario/oracle-one-projects)**: Projetos da trilha de Back-end + IA.
