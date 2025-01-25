@@ -16,8 +16,9 @@ Sou estudante de <b>Sistemas para Internet</b> e apaixonada por tecnologia, prog
 - 🌱 Aprendendo tecnologias de back-end e fundamentos de IA.
 
 ## 📂 Meus Repositórios
-- 🌐 **[Em breve](https://github.com/seuusuario/oracle-one-projects)**: Projetos da trilha de Back-end + IA.
+- 🎮 **[Jogos para Treinar Lógica de Programação](https://github.com/elliz01/jogos-de-logica)**: Jogos interativos e desafios para melhorar suas habilidades em lógica de programação.
 - 📝 **[Lógica de Programação](https://github.com/elliz01/logica-de-programacao)**: Exercícios de lógica em Java e JavaScript.
+- 🌐 **[Em breve](https://github.com/seuusuario/oracle-one-projects)**: Projetos da trilha de Back-end + IA.
 - 🚀 **[Projetos FreeCodeCamp (Em breve)](https://github.com/seuusuario/freecodecamp-certification-projects)**: Projetos do curso de certificação.
 
 ## 🌎 Onde me encontrar?
