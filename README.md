@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou a Elliz.
 
 
-<div style="display: flex; align-items: center;">
+<div>
     <p style="margin-right: 20px;">Sou estudante de <b>Sistemas para Internet</b> e apaixonada por tecnologia, programação e desenvolvimento. Estou focada em me tornar uma desenvolvedora fullstack, com um interesse especial em <b>back-end</b> e <b>Inteligência Artificial</b></p>
     <img src="https://media1.tenor.com/m/4V2vEevbFcEAAAAd/lkbc-little-kitty-big-city.gif" alt="gato em cima de um computador enquanto alguem tenta mexer" width="200">
 </div>
