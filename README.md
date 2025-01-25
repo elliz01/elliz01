@@ -2,6 +2,12 @@
 
 Sou estudante de <b>Sistemas para Internet</b> e apaixonada por tecnologia, programação e desenvolvimento. Estou focada em me tornar uma desenvolvedora fullstack, com um interesse especial em <b>back-end</b> e <b>Inteligência Artificial</b></p>
 
+<div>
+  <a href="https://github.com/elliz01">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliz01&layout=compact&langs_count=7&theme=dracula" />
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=elliz01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
+</div>
 
 ## 🌟 Sobre Mim
 - 🎓 **Estudante**: Faculdade de Sistemas para Internet
@@ -27,3 +33,6 @@ Sou estudante de <b>Sistemas para Internet</b> e apaixonada por tecnologia, prog
 </div>
 
 Vamos nos conectar e construir algo incrível! 🚀
+
+![Snake animation](https://github.com/elliz01/elliz01/blob/output/github-contribution-grid-snake.svg)
+
