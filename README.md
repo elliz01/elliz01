@@ -22,6 +22,8 @@ Sou estudante de <b>Sistemas para Internet</b> e apaixonada por tecnologia, prog
 - 🚀 **[Projetos FreeCodeCamp (Em breve)](https://github.com/seuusuario/freecodecamp-certification-projects)**: Projetos do curso de certificação.
 
 ## 🌎 Onde me encontrar?
-- 💼 [LinkedIn](www.linkedin.com/in/ellizabeth-severo)
+<div>
+<a href="https://www.linkedin.com/in/ellizabeth-severo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 Vamos nos conectar e construir algo incrível! 🚀
