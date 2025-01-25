@@ -34,6 +34,4 @@ Sou estudante de <b>Sistemas para Internet</b> e apaixonada por tecnologia, prog
 
 Vamos nos conectar e construir algo incrível! 🚀
 
-![Snake animation](https://github.com/elliz01/blob/output/github-contribution-grid-snake.svg)
-
 
