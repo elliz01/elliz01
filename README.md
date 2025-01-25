@@ -1,7 +1,9 @@
 # 👋 Olá! Eu sou a Elliz.
 
-Sou estudante de **Sistemas para Internet** e apaixonada por tecnologia, programação e desenvolvimento. Estou focada em me tornar uma desenvolvedora fullstack, com um interesse especial em **back-end** e **Inteligência Artificial**.
-
+<p align="left">
+  <img src="(https://media1.tenor.com/m/4V2vEevbFcEAAAAd/lkbc-little-kitty-big-city.gif)" alt="Texto do GIF" width="200"/>
+  <span>Sou estudante de **Sistemas para Internet** e apaixonada por tecnologia, programação e desenvolvimento. Estou focada em me tornar uma desenvolvedora fullstack, com um interesse especial em **back-end** e **Inteligência Artificial**.GIF</span>
+</p>
 ## 🌟 Sobre Mim
 - 🎓 **Estudante**: Faculdade de Sistemas para Internet
 - 🚀 **Metas**:
