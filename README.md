@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Elliz.
 
-Sou estudante de <b>Sistemas para Internet</b> e apaixonada por tecnologia, programação e desenvolvimento. Estou focada em me tornar uma desenvolvedora fullstack, com um interesse especial em <b>back-end</b> e <b>Inteligência Artificial</b></p>
+Sou estudante de <b>Sistemas para Internet</b> e apaixonada por tecnologia, programação e desenvolvimento. Estou focada em me tornar uma desenvolvedora fullstack.</b></p>
 
 <div>
   <a href="https://github.com/elliz01">
